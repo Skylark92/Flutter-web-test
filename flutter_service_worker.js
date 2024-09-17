@@ -3,9 +3,11 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "693635b5258fe5f1cda720cf224f158c",
-"assets/AssetManifest.bin.json": "69a99f98c8b1fb8111c5fb961769fcd8",
-"assets/AssetManifest.json": "2efbb41d7877d10aac9d091f58ccd7b9",
+const RESOURCES = {"assets/AssetManifest.bin": "0188227c3848689335bdd624b68edbed",
+"assets/AssetManifest.bin.json": "ad21d306fd6bc8aacfbeadae0ddef749",
+"assets/AssetManifest.json": "4758fac4c91f17443def500ab7d315bf",
+"assets/assets/images/title_texas_holdem.png": "abc5f262c0a1cc5c496658df22162796",
+"assets/assets/images/title_who_win.png": "a6ddab7201d68359a3ca15b7dae4a184",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "0db35ae7a415370b89e807027510caf0",
 "assets/NOTICES": "6789387eb341c6b090ff0b85be5dba86",
@@ -23,14 +25,14 @@ const RESOURCES = {"assets/AssetManifest.bin": "693635b5258fe5f1cda720cf224f158c
 "canvaskit/skwasm.worker.js": "89990e8c92bcb123999aa81f7e203b1c",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "flutter.js": "f393d3c16b631f36852323de8e583132",
-"flutter_bootstrap.js": "67767772e09259e27aa3b914523fc47b",
+"flutter_bootstrap.js": "0bb08e52a8c08f4f289b00bae59a7e01",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "b99ac41991af9d9904a787d7ab100247",
-"/": "b99ac41991af9d9904a787d7ab100247",
-"main.dart.js": "fc42a03dc04b47bc652e2560e7617905",
+"index.html": "b3d7725aa69eb432a9a24b942e9be275",
+"/": "b3d7725aa69eb432a9a24b942e9be275",
+"main.dart.js": "9d41a3a16bbe29cb729a476ca8cf0a09",
 "manifest.json": "70ee209417a6381a4b9e5085f315ed6c",
 "version.json": "b0bf71c882af82b57fdfafd795c19770"};
 // The application shell files that are downloaded before a service worker can
